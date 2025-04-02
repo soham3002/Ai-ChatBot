@@ -11,7 +11,7 @@ nltk.download('averaged_perceptron_tagger')
 nltk.download('wordnet')
 
 # OpenWeatherMap API key and endpoint
-WEATHER_API_KEY = '88612e6031496e2912f8f607a3f2792b'  # Replace with your API key
+WEATHER_API_KEY = '-----------------------'  # Replace with your API key
 WEATHER_URL = 'http://api.openweathermap.org/data/2.5/weather'
 
 # Define pairs of patterns and responses
